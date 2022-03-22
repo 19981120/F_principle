@@ -6,7 +6,7 @@ Related papers for fourier-theory-deep-learning (main focus on the application o
 
 # Math List
 
-# Englisch List
+# Paper List
 
 ## Contents 
 - <a href="#Adversarial Attack">Adversarial Attack</a><br>
