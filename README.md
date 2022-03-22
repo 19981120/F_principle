@@ -25,6 +25,7 @@ Related papers for fourier-theory-deep-learning (main focus on the application o
 - <a href="#Seminal_work">Seminal Work</a><br>
 - <a href="#Benchmark_Datasets">Benchmark Datasets</a><br>
 
+## Adversarial Attack
 <a id='Adversarial Attack'></a>
 * [Intriguing properties of neural networks ](https://arxiv.org/pdf/1312.6199.pdf)(ICLR 2014) <br/> This paper is the first work on adversarial examples with two contributions: 1) L-BFGS attack; 2) Adversarial examples is a phenomenon of "over-fitting".
 * [Explaining and harnessing adversarial examples](https://arxiv.org/abs/1412.6572)(ICLR 2015) <br/> This paper is the seminal work on adversairl examples with two contributions: 1) Fast Gradient Sign Method Attack; 2) Adversariall examples is a phenomenon of "linerarity of DNN's decision boundary".
