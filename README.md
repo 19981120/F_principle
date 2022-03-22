@@ -1,10 +1,12 @@
 # Papers-of-F-Principle
-Related papers for robust machine learning (main focus on the application of computer vision).
+Related papers for fourier-theory-deep-learning (main focus on the application of robust analyse).
  
-# Statement
-Since there are tens of new papers on adversarial examples in each conference and jounral, we are only able to update those we just read and consider as insightful.
+# Idea List
 
-It follows the idea of https://github.com/P2333/Papers-of-Robust-ML 
+
+# Math List
+
+# Englisch List
 
 ## Contents 
 - <a href="#Adversarial Attack">Adversarial Attack</a><br>
